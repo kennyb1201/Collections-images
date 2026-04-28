@@ -1,0 +1,546 @@
+[
+  {
+    "id": "collection-ERFS5GWK",
+    "title": "Studios 🎬🐻",
+    "folders": [
+      {
+        "id": "folder-WFGY1XPD",
+        "title": "Netflix Kids",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158669"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/BZFxMMdD/d2jgyy53knrmr0cxfd6bzb0x5g_result_ezremove_ezgif_com_video_to_gif_converter.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/4cb6b79e-c560-402a-87d3-90d520488ef8.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158669"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://media1.popsugar-assets.com/files/thumbor/m_eI9ZWSfEM_JSsM9pWaPhvg-ik=/fit-in/1584x850/top/filters:format_auto():upscale()/2019/11/20/702/n/24155406/d2f1a0173a0943ef_MCDSELI_EC187.jpg"
+      },
+      {
+        "id": "folder-c0bac2b0",
+        "title": "Nickelodeon",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103486"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://s35726.pcdn.co/wp-content/uploads/2024/02/ezgif-3-2d8efb77b7.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ea3fc1b4-c15e-4a69-9cfe-6d211b90637d.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103486"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpaper.forfun.com/fetch/03/036c5e9c7511a7d7f39e5b139e982c4f.jpeg?w=1470&r=0.5625&f=webp"
+      },
+      {
+        "id": "folder-AT8KYHZO",
+        "title": "Cartoon Network",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.31163"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.pinimg.com/originals/df/8f/74/df8f7436262a2b099f8e59a5ad0f1799.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/83ec9db2-fc7c-4e10-8644-dce682416079.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.31163"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpaper.forfun.com/fetch/aa/aa09cea6c91cdc3119ead529c7adada9.jpeg?w=1470&r=0.5625&f=webp"
+      },
+      {
+        "id": "folder-IQTF27K8",
+        "title": "DreamWorks",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.159680"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://s13.gifyu.com/images/bqmmm.gif",
+        "coverImageUrl": "https://static.wikitide.net/revuelorimaruniversewiki/thumb/7/74/The_Bad_Guys_DWA_Logo.jpeg/712px-The_Bad_Guys_DWA_Logo.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159680"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpaper.forfun.com/fetch/3a/3a8b93edbb2bff5bf66fabea1873ad80.jpeg?w=1470&r=0.5625&f=webp"
+      },
+      {
+        "id": "folder-OA4T8NYO",
+        "title": "Illumination",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.159699"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/591ea9df-96cd-471b-afc0-199a9d8e18e9.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159699"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp14819146.webp"
+      },
+      {
+        "id": "folder-8ZBZOMW9",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158635"
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.158634"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Disney.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158635"
+          },
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.158634"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp16184137.webp"
+      },
+      {
+        "id": "folder-LN9SPMQN",
+        "title": "Walt Disney",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.159700"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/2b02632a-f50a-454f-abe4-11187b0fe15d.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/64f8f8e3-5e6e-46eb-8c56-85d54f8e6e79.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159700"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp15399178.jpg"
+      },
+      {
+        "id": "folder-ILJM8PD0",
+        "title": "Studio Ghibli",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.159694"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.pinimg.com/originals/d0/c7/95/d0c79552c4e20e00369ac7da26007121.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0b837dd0-055a-4c6a-a421-750206d22879.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159694"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp11754469.jpg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-0127593e",
+    "title": "Collections 🎥🎈",
+    "folders": [
+      {
+        "id": "folder-e7b0195d",
+        "title": "Toy Story Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.59781"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/kV6gVP7W/f-N4mh46-Wb4-M8j-R3h-Iw4ll-Lhp-PYPz1k-NHDMgfij55.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59781"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp15639049.jpg"
+      },
+      {
+        "id": "folder-2a5da591",
+        "title": "Dragons Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.162852"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/QFd0Pt39/4t-BKIk-PLFMki-ZETj-AMOHNoty8-B1.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162852"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp15568987.jpg"
+      },
+      {
+        "id": "folder-20f7e47a",
+        "title": "Harry Potter Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.59635"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ae315156-d78f-45c6-a57e-dd47460288a3.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59635"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp12425458.jpg"
+      },
+      {
+        "id": "folder-44eda0c3",
+        "title": "Shrek Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.59649"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/b5z07TJ0/q-NHZMe92-A7-Pyl46q-UH29h-VOtb-SK.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59649"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp13182659.jpg"
+      },
+      {
+        "id": "folder-8020e05f",
+        "title": "Madagascar Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.163713"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/S76QcRrT/UXIxs-Ubw-Mpv4v8x-XRd-T7-LX58z9.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.163713"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp12002307.jpg"
+      },
+      {
+        "id": "folder-b39d2797",
+        "title": "Moi Moche et Mechant Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.119124"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/4wXZk36n/vl-Wv-RF25-Sn-BSZz-Pf-P6kvb-EAp7ot.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.119124"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp13539050.jpg"
+      },
+      {
+        "id": "folder-b7c0558a",
+        "title": "L'age de Glace Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.20010"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://i.ibb.co/ycpDLtwm/st-Qo-Hvo0q6-Zc-Ekji2-Z1wl-Ax-Kn-Dq.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.20010"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp2877621.jpg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-eee656ac",
+    "title": "Univers 🎨🧸 👉 ⭐",
+    "folders": [
+      {
+        "id": "folder-db76fa94",
+        "title": "On Chante 🎤",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Music",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.5749"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/Hp2pk96s/Banni-re-paysage-style-cartoon-enfant-sc-ne-musicale-joyeuse-avec-enfants-chantant-et-dansant.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Music",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.5749"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp15924825.jpg"
+      },
+      {
+        "id": "folder-47e0e665",
+        "title": "Aventures Incroyables 🚀",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Adventure",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.1977"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/20stZP7D/Banni-re-paysage-style-cartoon-enfant-aventures-avec-explorateurs-jungle-montagne-et-tr-sor.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Adventure",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.1977"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp16187603.webp"
+      },
+      {
+        "id": "folder-d0800d00",
+        "title": "Films en Famille 👨‍👩‍👧‍👦",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13523"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/v4cTVwY4/generated-image.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13523"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp12178716.jpg"
+      },
+      {
+        "id": "folder-faee8492",
+        "title": "Monde Magique ✨",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.13522"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.ibb.co/x8J4hmfr/Banni-re-paysage-style-cartoon-enfant-monde-magique-avec-ch-teau-dragons-mignons-et-arc-en-ciel.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.13522"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://wallpapercave.com/wp/wp12501473.jpg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
